@@ -1,3 +1,21 @@
+Metadata-Version: 2.4
+Name: pytorch-learning
+Version: 0.1.0
+Summary: Comprehensive PyTorch learning system for ML engineering
+Author-email: ML Engineer <ml@example.com>
+Project-URL: Homepage, https://github.com/example/pytorch-learning
+Project-URL: Repository, https://github.com/example/pytorch-learning
+Project-URL: Documentation, https://pytorch-learning.readthedocs.io
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+
 # PyTorch Learning System
 
 A comprehensive ML engineering curriculum covering the full stack from GPU kernels to production deployment.
